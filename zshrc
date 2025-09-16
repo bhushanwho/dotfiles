@@ -36,3 +36,4 @@ alias vim='nvim'
 alias vi='nvim'
 hash -d CNLAB="$HOME/Desktop/dev1/cnlab"
 hash -d DEV="$HOME/Desktop/dev1"
+hash -d DOTFILES="$HOME/Desktop/dev1/dotfiles"
